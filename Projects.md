@@ -41,7 +41,7 @@
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     | [Link](https://github.com/al8060/18CSE301J-INFORMATION-VIZULIZATION/tree/main)      |         |
 | 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     | [Link](https://information-visualization-one.vercel.app/)     |         |
 | 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     | [Link](https://mahe243.github.io/Information-Visualization/)    |         |
-| 33   | JATIN MANWANI (RA2111003011548)            | 2     |      |         |
+| 33   | JATIN MANWANI (RA2111003011548)            | 2     | [Link] (https://manwanijatin22.wixsite.com/my-site)     |         |
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |      |         |
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
 | 36   | OMESH SHUKLA (RA2111003011857)            | 2     |      |         |
@@ -59,8 +59,7 @@
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     | [Link](https://github.com/Shoumik21b/Info-Visualization)      |         |
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link](https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     | [Link](https://github.com/gavishkumar/-information-viz.#-information-viz)              |      |         |
-| 51   | YASHI JAIN (RA2111031010058)            | 2     | [Link]
-(https://yashi4.github.io/climate-change/18CSE301Jinfoviz%20assignment%201.html)              |      |         |
+| 51   | YASHI JAIN (RA2111031010058)            | 2     | [Link](https://yashijain.journoportfolio.com/)              |      |         |
 | 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
 | 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |[Llink](https://github.com/Kuladeep-2710/kuladeepreddy.github.io/tree/main)            |      |         |
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |[link](https://github.com/krishnathorlikonda/Vamsi-117github.io)              |      |         |
